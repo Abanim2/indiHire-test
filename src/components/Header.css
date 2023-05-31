@@ -1,0 +1,11 @@
+.nav-link {
+    transition: color 0.3s;
+    text-decoration: none;
+  }
+  
+  .nav-link:hover,
+  .nav-link.active {
+    color: darkblue;
+    text-decoration: underline;
+  }
+  
